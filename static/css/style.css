@@ -1,0 +1,11 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 2px;
+    list-style: none;
+    background-color: #ffd42a;
+}
+.main-content{
+    margin-top: 20px;
+    background-color: #fff7bd;
+    padding: 5px;
+}
